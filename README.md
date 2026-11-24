@@ -1,6 +1,6 @@
 # X Article Creator · 羊毛团的免费中文写作 Skill
 
-![羊毛团 X Article Creator：把好项目写成推荐长文](assets/writing-skill-cover.png)
+![羊毛团的咩酱竖起大拇指，推荐免费写作技能 X Article Creator：把好项目写成推荐长文](assets/writing-skill-cover.png)
 
 你收藏了一个开源项目，隔天想把它推荐给朋友。光标在「发现一个宝藏工具」后面闪了半天。项目能做的事，作者已经在首页写得很全了。朋友特意来读你这篇，还能多知道什么？
 
