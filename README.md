@@ -73,7 +73,7 @@ git clone https://github.com/PigeonAI-Yang/x-article-creator.git
 我们写过一篇介绍 Magpie 的推荐稿。它让多个编程助手经同一个网关连接不同模型。对还没用过它的人，如果封面只印项目名，再画一只鸟，看完也未必知道自己为什么要点。于是我们把读者想做的动作写在左侧：**给不同 AI 助手，统一换模型**。右侧画出 Claude Code 和 Codex 汇入 Magpie，再分别通向模型的关系。文案给出结果，插画解释软件在其中承担哪一步。[案例项目的官方仓库](https://github.com/yetone/magpie)
 
 <details>
-<summary>展开看这篇推荐稿实际使用的封面设计</summary>
+<summary>展开看羊毛团品牌版的 Magpie 推荐稿封面示例</summary>
 
 ![第三方项目推荐稿的封面设计，两个 AI 助手通过 Magpie 网关连接不同模型](assets/magpie-cover.png)
 
