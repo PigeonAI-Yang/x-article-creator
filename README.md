@@ -114,3 +114,10 @@ git clone https://github.com/PigeonAI-Yang/x-article-creator.git
 写作结构参考了超级峰公开分享的 [X 长文创作复盘](https://x.com/Mileson07/status/2125166491838582826)。羊毛团把其中的选题、教程结构和短长帖配合方法，改写成适合推荐第三方工具、文章与开源项目的工作流程。
 
 这个项目由羊毛团维护，采用 MIT 许可证。欢迎把它用在自己的账号上，也欢迎把你写到一半卡住的真实问题带回来。一个具体的输入、一处难以解释的结果，往往比一串形容词更能帮助我们把写作规则改好。[羊毛团官网](https://ymtuan.live) · [反馈问题](https://github.com/PigeonAI-Yang/x-article-creator/issues) · [MIT 许可证](./LICENSE)
+
+## 羊毛团开源项目
+
+[项目总览与源码入口](https://github.com/PigeonAI-Yang/yangmao-skill/blob/main/OPEN-SOURCE.md) · [羊毛团官网](https://ymtuan.live/)
+
+- 内容工具与 Skills：[免费 AI 额度 Skill](https://github.com/PigeonAI-Yang/yangmao-skill) · **X 长文写作 Skill** · [发布助手](https://github.com/PigeonAI-Yang/yangmao-publisher)
+- Magpie 插件：[Codex 图片瘦身](https://github.com/PigeonAI-Yang/yangmao-magpie-image-slim) · [Devin 图片缓存](https://github.com/PigeonAI-Yang/yangmao-magpie-devin-image-history)
